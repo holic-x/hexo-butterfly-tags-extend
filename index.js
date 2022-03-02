@@ -11,4 +11,9 @@ hexo.extend.tag.register('bilibili',
   }
 , { ends: false })
 
-// 入口
+/**
+ * githubRepo插件注册
+ */
+hexo.extend.tag.register('githubRepo', async function (args, content) {
+  return require('./lib/scripts/tag/githubRepo').genGithubRepoTag(args, content);
+}, { async: true });

@@ -1,6 +1,6 @@
 {
   "name": "hexo-butterfly-tags-extend-beta",
-  "version": "0.0.1-beta15",
+  "version": "0.0.1-beta16",
   "description": "基于hexo-butterfly扩展构建的标签插件集合",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,7 @@
   "author": "holic-x",
   "license": "MIT",
   "dependencies": {
-    "bilibili-embed-convert": "^0.4.1"
+    "bilibili-embed-convert": "^0.4.1",
+    "axios": "^0.21.1"
   }
 }
