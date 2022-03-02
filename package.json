@@ -1,0 +1,19 @@
+{
+  "name": "hexo-butterfly-tags-extend-beta",
+  "version": "0.0.1-beta15",
+  "description": "基于hexo-butterfly扩展构建的标签插件集合",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "butterfly",
+    "tag-plugins"
+  ],
+  "author": "holic-x",
+  "license": "MIT",
+  "dependencies": {
+    "bilibili-embed-convert": "^0.4.1"
+  }
+}
