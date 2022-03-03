@@ -1,6 +1,6 @@
 {
-  "name": "hexo-butterfly-tags-extend",
-  "version": "0.0.3",
+  "name": "hexo-butterfly-tags-extend-beta",
+  "version": "0.0.1-beta34",
   "description": "基于hexo-butterfly扩展构建的标签插件集合",
   "main": "index.js",
   "scripts": {
